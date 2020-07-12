@@ -7,9 +7,9 @@ http://dojopuzzles.com/problemas/exibe/ano-bissexto/
 
 
 *Como utilizar*
-  > gradlew bootRun
+> gradlew bootRun
 
-  http://localhost:8080/leap-year/{ano}
+http://localhost:8080/leap-year/{ano}
 
 
 *Testes*
